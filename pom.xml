@@ -8,6 +8,17 @@
     <artifactId>Challenges</artifactId>
     <version>1.1</version>
 
+  <!--<beans>
+    <bean id="SocialMediaController" class = "controller.SocialMediaController"></bean>
+    <bean id="AccountRepository" class = "repository.AccountRepository"></bean>
+    <bean id="MessageRepository" class = "repository.MessageRepository"></bean>
+    <bean id="AccountService" class = "service.AccountRepository"></bean>
+    <bean id="MessageService" class = "service.AccountRepository"></bean>
+</beans>
+-->
+
+
+
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
